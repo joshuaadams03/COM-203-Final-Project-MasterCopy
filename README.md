@@ -20,7 +20,7 @@ Your project will be completed in the following phases:
 
 ### GitHub and Git setup
 
-For this aspect of the project, you will need to capture your installation process of GitHub (Desktop) and Git to your system. For this aspect, you will capture you searching on Goole GitHub Desktop, each process you take to download the software and then the installation process. For example, you should have a capture of the progress bar showing the installation status and then with installation succcess at the end. You will need to add all this to your website later.
+For this aspect of the project, you will need to capture your installation process of GitHub (Desktop) and Git to your system. For this aspect, you will capture you searching on Google GitHub Desktop, each process you take to download the software and then the installation process. For example, you should have a capture of the progress bar showing the installation status and then with installation succcess at the end. You will need to add all this to your website later.
 
 Because your personal computers can have multiple versions of programs, languages, and dependancy files it is best to start with a clean installation on a virtual machine. However, this is not mandatory and you are welcome to use your personal system. To understand more about setting up a virtual machine, use the Lab established by your instructor, the [links here] or your personal computer using Oracle, VMWare, or Parallels. All students can obtain copies of Windows licenscening from [here].
 
